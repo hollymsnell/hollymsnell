@@ -5,4 +5,4 @@
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=hollymsnell&show_icons=true&theme=radical)
 
-<!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}-->
+Catch me outside :deciduous_tree:
