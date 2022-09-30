@@ -1,8 +1,8 @@
-### Holly Snell
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Holly!;Let's+speak+in+code)](https://git.io/typing-svg)
 #### Software Engineer | Physical Therapist Assistant
-![Software Engineer | Physical Therapist Assistant](https://media2.giphy.com/media/CWKcLd53mbw0o/giphy.gif)
 
+ 
 
-Skills: VUE JS / JS / HTML / CSS / Ruby / Ruby on Rails
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=hollymsnell&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on this page. 
+<!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}-->
