@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Holly!;Let's+speak+in+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+coming!;Let's+speak+in+code)](https://git.io/typing-svg)
 #### Software Engineer | Physical Therapist Assistant
 
  
