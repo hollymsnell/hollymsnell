@@ -9,3 +9,7 @@ Catch me outside :deciduous_tree: :running_woman: :climbing_woman: :rowing_woman
 
 
 🐈‍⬛ 🐕
+
+Check out my projects:
+- TherapE: A place to create home exercise programs for patients (WIP)
+   - https://sparkling-creponne-013411.netlify.app/
