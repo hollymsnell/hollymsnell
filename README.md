@@ -16,3 +16,6 @@ Check out my projects (WIP):
   
 - My React Business Card
    - https://lovely-caramel-8c0794.netlify.app
+
+- My Personal Website
+   - https://hollymsnell.github.io/
