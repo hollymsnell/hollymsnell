@@ -20,6 +20,4 @@ Check out my projects:
 - My Personal Website
    - https://hollymsnell.github.io/
 
-- Coming soon:
-   -Photo Album
-   - and more!  
+- More coming soon!  
