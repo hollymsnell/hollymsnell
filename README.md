@@ -10,7 +10,7 @@ Catch me outside :deciduous_tree: :running_woman: :climbing_woman: :rowing_woman
 
 🐈‍⬛ 🐕
 
-Check out my projects (WIP):
+Check out my projects:
 - TherapE: A place to create home exercise programs for patients 
    - https://sparkling-creponne-013411.netlify.app/
   
@@ -19,3 +19,7 @@ Check out my projects (WIP):
 
 - My Personal Website
    - https://hollymsnell.github.io/
+
+- Coming soon:
+   -Photo Album
+   - and more!  
