@@ -19,5 +19,8 @@ Check out my projects:
 
 - My Personal Website
    - https://hollymsnell.github.io/
+ 
+- Cute HTML scrimba tutorial
+   - https://unique-cocada-337a89.netlify.app/
 
 - More coming soon!  
