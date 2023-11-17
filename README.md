@@ -17,8 +17,9 @@ Check out my projects:
 - My React Business Card
    - https://lovely-caramel-8c0794.netlify.app
 
-- My Personal Website
+- My Personal Websites
    - https://hollymsnell.github.io/
+   - https://eager-mcnulty-631d70.netlify.app/
  
 - Cute HTML scrimba tutorial
    - https://unique-cocada-337a89.netlify.app/
