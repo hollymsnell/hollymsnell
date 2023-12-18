@@ -23,5 +23,8 @@ Check out my projects:
  
 - Cute HTML scrimba tutorial
    - https://unique-cocada-337a89.netlify.app/
+ 
+- Photo Album app with CSS
+   - https://photo-album-frontend.onrender.com/
 
 - More coming soon!  
